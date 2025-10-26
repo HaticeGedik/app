@@ -1,3 +1,4 @@
-ckjnkzcjn
-git aracılığıyla github a dosya göderme pull,msmö
+
+git aracılığıyla github a dosya göderme pull,
+
 
